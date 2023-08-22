@@ -1,5 +1,7 @@
 # Meraki-MS-AccessPolicies-Cloner
 
+Description: In order to avoid using full Meraki templates and focus directly into cloning Access Policies for MS enabled networks, the script bellow will clone / template Access Policies which will reduce human error, and speed up the process for cloning the access policies.
+
 ## Installation for debian-based OS
 Virtual Environment
 
