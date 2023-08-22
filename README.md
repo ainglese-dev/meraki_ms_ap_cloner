@@ -1,5 +1,7 @@
 # Meraki-MS-AccessPolicies-Cloner
 
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ainglese-dev/meraki_ms_ap_cloner)
+
 Description: In order to avoid using full Meraki templates and focus directly into cloning Access Policies for MS enabled networks, the script bellow will clone / template Access Policies which will reduce human error, and speed up the process for cloning the access policies.
 
 ## Installation for debian-based OS
